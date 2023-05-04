@@ -1,5 +1,4 @@
 # Sueldo Horizonte
-# Sueldo Horizonte
 ## Objivos del Proyecto
   Implementar el calculo del sueldo a pagar  por la  Empresa Horizonte
 ## Integrantes del equipo de desarrollo 
